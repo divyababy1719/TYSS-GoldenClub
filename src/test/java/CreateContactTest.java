@@ -14,7 +14,7 @@ public void createContact()
 public void modifyContact()
 {
 	System.out.println("Contact Modified");
-	System.out.println("This statment is added by sanjay in modifycontact");
+
 }
 
 }
