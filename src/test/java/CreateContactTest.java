@@ -7,6 +7,8 @@ public class CreateContactTest {
 public void createContact()
 {
 	System.out.println("Contact Created");
+	
+	System.out.println("Hi chandan");
 }
 @Test(groups="regression")
 public void modifyContact()
